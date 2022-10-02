@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: arial;
+    box-sizing: border-box;
+}
+
+
+.container3 {
+    display:flex;
+    justify-content: space-around;
+    padding: 0px 150px 0px 150px;
+    align-items: center; 
+    height: 105px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 3px #00000061;
+  }
+  
+  
+  
+   social img {
+    height: 30px;
+  
+  }
+  
+  .social1 {
+    display:flex;
+    justify-content: center; 
+    flex-wrap: nowrap;
+    align-items: center;
+    grid-gap: 100px; 
+  }
+  
+  
+  social p {
+    width: 394px;
+    height: 38px;
+    font: normal normal normal 14px/20px Montserrat;
+    letter-spacing: 0px;
+    color: #86878B;
+  }
+  
+  social h3 {
+    width: 130px;
+    height: 24px;
+    font: normal normal 600 20px/24px Montserrat;
+    letter-spacing: 0px;
+    color: #333333;
+  }
+  

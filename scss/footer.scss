@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: arial;
+    box-sizing: border-box;
+  }
+  
+.container7 {
+    display:flex;
+    justify-content: space-around;
+    padding: 0px 60px 0px 60px;
+    align-items: center; 
+    height: 124px;
+    background: #1C1C1C;
+    opacity: 1;
+  }
+  
+  
+  
+   footer img {
+    width: 24px;
+    height: 20px;
+    opacity: 1;
+  
+  }
+  
+  .social1 {
+    display:flex;
+    justify-content: center; 
+    flex-wrap: nowrap;
+    align-items: center;
+    grid-gap: 100px; 
+  }
+  
+  
+  footer p {
+    font: normal normal normal 18px/14px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.5;
+
+  }
+  
+  

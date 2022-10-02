@@ -1,0 +1,241 @@
+/* main 3  */
+
+.container5 {
+    // max-width: 1400px;
+  height: 883px;
+  padding: 100px 0;
+  background: #6696E2 0% 0% no-repeat padding-box;
+  opacity: 1;
+  }
+  
+  .price123 {
+  text-align: center;
+  font: normal normal normal 14px/20px Montserrat;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  margin-top: 40px;
+  margin-bottom: 83px;
+  }
+  
+  
+  .price-wrapper {
+  
+    display:flex;
+    justify-content: space-around;
+    padding: 0px 190px 0px 190px;
+    align-items: center; 
+  }
+  
+  
+  
+  
+  main3 h2 {
+  
+  height: 44px;
+  text-align: center;
+    font: normal normal 600 36px/43px Montserrat;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  margin-bottom: 20px;
+  }
+  
+  
+  
+  .price-subtitle {
+  height: 18px;
+  text-align: left;
+  font: normal normal normal 14px/20px Montserrat;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  }
+  
+  .one {
+     width: 343px;
+    height: 59px;
+    background: transparent url(../images/card_header_u266.png);
+    border-radius: 5px 5px 0px 0px;
+    text-align: center;
+    font: normal normal normal 20px/24px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding-top: 14px;
+  }
+  
+  .two {
+    width: 343px;
+    height: 100px;
+    background: transparent url(../images/card_price_u268.png);
+    opacity: 1;
+    text-align: center;
+    font: normal normal normal 94px/24px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    padding-top: 30px;
+  }
+  
+  .three {
+  width: 343px;
+  height: 51px;
+  background: transparent url(../images/card_sub_text_u270.png);
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 14px/24px Montserrat;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  padding-top: 5px;
+  }
+  
+  .four {
+  width: 343px;
+  height: 6px;
+  background: transparent url(../images/u273.png);
+  opacity: 1;
+  }
+  
+  .free {
+  height: 18px;
+  text-align: center;
+  font: normal normal normal 14px/24px Montserrat;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 0.5;
+  }
+  
+  .usd {
+  height: 115px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal normal 30px/24px Montserrat;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  }
+  
+  .five {
+  width: 343px;
+  height: 40px;
+  background: transparent url(../images/pricing_feature_u13.png);
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 14px/24px Montserrat;
+  letter-spacing: 0px;
+  color: #86878B;
+  padding-top: 10px;
+  }
+  
+  .six {
+  width: 343px;
+  height: 40px;
+  background: transparent url(../images/pricing_feature_u13.png);
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 14px/24px Montserrat;
+  letter-spacing: 0px;
+  color: #86878B;
+  padding-top: 10px;
+  }
+  
+  .seven {
+  width: 343px;
+  height: 40px;
+  background: transparent url(../images/pricing_feature_u13.png);
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 14px/24px Montserrat;
+  letter-spacing: 0px;
+  color: #86878B;
+  padding-top: 10px;
+  }
+  
+  .eight {
+  width: 343px;
+  height: 40px;
+  background: transparent url(../images/pricing_feature_u13.png);
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 14px/24px Montserrat;
+  letter-spacing: 0px;
+  color: #86878B;
+  padding-top: 10px;
+  }
+  
+  .nine {
+  width: 343px;
+  height: 40px;
+  background: transparent url(../images/pricing_feature_u13.png);
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 14px/24px Montserrat;
+  letter-spacing: 0px;
+  color: #86878B;
+  padding-top: 10px;
+  }
+  
+  .ten {
+  width: 343px;
+  height: 40px;
+  background: transparent url(../images/pricing_feature_u13.png);
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 14px/24px Montserrat;
+  letter-spacing: 0px;
+  color: #86878B;
+  padding-top: 10px;
+  border-radius: 0px 0px 5px 5px;
+  }
+  
+  .popular {
+  height: 18px;
+  text-align: center;
+  font: normal normal normal 14px/24px Montserrat;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  }
+  
+  .green {
+  width: 343px;
+  height: 40px;
+  text-align: center;
+  /* UI Properties */
+  background: transparent url(../images/u273.png);
+  opacity: 1;
+  padding-top: 6px;
+  }
+  
+  .swiper {
+    width: 600px;
+    height: 500px;
+  }
+
+//   .swiper-wrapper {
+//     display: flex;
+//     align-items: center;
+//   }
+
+  @media (min-width: 1000px){
+    .swiper {
+      width: 100%;
+      max-width: 1600px;
+    }
+  
+    .swiper-wrapper {
+      display: flex;
+      align-items: center;
+    }
+
+    .price-block-img {
+      width: 20vw;
+      max-width: 350px;
+    }
+  
+  
+  .swiper-button-prev,
+  .swiper-button-next {
+  display: none;
+  }
+  }
